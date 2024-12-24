@@ -33,7 +33,7 @@ scipy
 # Methodology
 
 ### Data: 
-The experiment is ran on data for the mobile game, *Cookie Cats*. This data was acquired from Mürşide Yarkın and is available on Kaggle [here]([http://example.com](https://www.kaggle.com/code/mursideyarkin/mobile-games-ab-testing-with-cookie-cats)
+The experiment is ran on data for the mobile game, *Cookie Cats*. This data was acquired from Mürşide Yarkın and is available on Kaggle [here](https://www.kaggle.com/code/mursideyarkin/mobile-games-ab-testing-with-cookie-cats)
 
 There are two experiment groups in the data: the control (gate_30) and the test group (gate_40).
 
